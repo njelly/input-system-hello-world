@@ -1,0 +1,16 @@
+.DS_Store
+*.csproj
+Logs/
+Library/
+Temp/
+UserSettings/
+*.sln
+.idea/
+obj/
+.vscode/
+Builds/
+Assets/Resources/git-hash.txt
+Assets/Resources/git-hash.txt.meta
+.vs/
+.vsconfig
+*.DotSettings.user
